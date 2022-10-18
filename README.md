@@ -10,11 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 October 2022 - To: 16 October 2022
+From: 15 October 2022 - To: 17 October 2022
 
-Total Time: 14 mins
+Total Time: 1 hr 50 mins
 
-C#   14 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+C#               1 hr 40 mins    >>>>>>>>>>>>>>>>>>>>>>>--   90.48 %
+XML              10 mins         >>-----------------------   09.48 %
+GitIgnore file   0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
