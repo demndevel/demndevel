@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 October 2022 - To: 27 October 2022
+From: 15 October 2022 - To: 28 October 2022
 
-Total Time: 22 hrs 19 mins
+Total Time: 23 hrs 21 mins
 
-C#               9 hrs 53 mins   >>>>>>>>>>>--------------   44.34 %
-CSHTML           6 hrs 33 mins   >>>>>>>------------------   29.38 %
-Rust             4 hrs 19 mins   >>>>>--------------------   19.35 %
-CSS              39 mins         >------------------------   02.93 %
-XML              24 mins         -------------------------   01.81 %
-JavaScript       12 mins         -------------------------   00.94 %
+C#               9 hrs 53 mins   >>>>>>>>>>>--------------   42.36 %
+CSHTML           6 hrs 33 mins   >>>>>>>------------------   28.07 %
+Rust             4 hrs 19 mins   >>>>>--------------------   18.48 %
+CSS              59 mins         >------------------------   04.21 %
+HTML             42 mins         >------------------------   03.04 %
+XML              24 mins         -------------------------   01.73 %
 ```
 
 <!--END_SECTION:waka-->
