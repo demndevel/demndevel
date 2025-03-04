@@ -1,5 +1,5 @@
 kotlin dev. for cv dm/email me
 
-tg: https://t.me/demnometa
-site: http://demndevel.github.io
-projects: https://demndevel.github.io/projects/
+tg: t.me/demnometa
+site: demndevel.github.io
+projects: demndevel.github.io/projects/
