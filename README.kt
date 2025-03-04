@@ -1,5 +1,7 @@
 a little bit about me:
 
+val a = "asd"
+
 kotlin dev. for cv dm/email me
 
 - tg: https://t.me/demnometa
