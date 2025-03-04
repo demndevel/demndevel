@@ -1,5 +1,3 @@
-### :star:
-
 a little bit about me:
 
 kotlin dev. for cv dm/email me
