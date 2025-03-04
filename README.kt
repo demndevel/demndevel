@@ -1,10 +1,45 @@
-a little bit about me:
+package com.problemsolver.panacea
 
-val a = "asd"
+import android.os.Bundle
+import android.text.TextUtils.replace
+import androidx.appcompat.app.AppCompatActivity
+import com.problemsolver.panacea.databinding.TestFragmentActivityBinding
 
-kotlin dev. for cv dm/email me
+class TestFragmentActivity : AppCompatActivity() {
+	private lateinit var binding: TestFragmentActivityBinding
 
-- tg: https://t.me/demnometa
-- site: http://demndevel.github.io
-- projects: https://demndevel.github.io/projects/
+	override fun onCreate(savedInstanceState: Bundle?) {
+		super.onCreate(savedInstanceState)
 
+		binding = TestFragmentActivityBinding.inflate(layoutInflater)
+
+		setContentView(binding.root)
+
+		val firstFragment = BlankFragment()
+		val secondFragment = SecondBlankFragment()
+
+		supportFragmentManager.beginTransaction().apply {
+			replace(R.id.frameForFragment, firstFragment)
+
+			commit()
+		}
+
+		binding.btnFragment1.setOnClickListener {
+			supportFragmentManager.beginTransaction().apply {
+				replace(R.id.frameForFragment, firstFragment)
+
+				commit()
+			}
+		}
+
+		binding.btnFragment2.setOnClickListener {
+			supportFragmentManager.beginTransaction().apply {
+				replace(R.id.frameForFragment, secondFragment)
+
+				addToBackStack(null)
+
+				commit()
+			}
+		}
+	}
+}
