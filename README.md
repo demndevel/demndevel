@@ -1,5 +1,5 @@
 kotlin dev. for cv dm/email me
 
-- [tg](t.me/demnometa)
-- [site](demndevel.github.io)
-- [projects](demndevel.github.io/projects/)
+- [tg](https://t.me/demnometa)
+- [site](https://demndevel.github.io)
+- [projects](https://demndevel.github.io/projects/)
