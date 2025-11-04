@@ -1,1 +1,1 @@
-i don't liek the way github goes
+i don't like the way github goes
